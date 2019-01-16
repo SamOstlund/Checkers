@@ -34,11 +34,6 @@ Possible Extra Credit Features:
 6. Tile the selected piece on 'lights up' and turns yellow.
 7. Forfeit addition in menu bar.
 
-Work Load:
-- Design/Brainstorming: Sam & Tyler
-- Hard-Coding/Big-Picture: Sam(65%) & Tyler(35%)
-- Graphics: Sam (Board & Piece's Concepts) & Tyler (Some Piece's Concepts)
-- README: Tyler
 
 **************************************************************************
 *                                                                        *
